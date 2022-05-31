@@ -1,4 +1,4 @@
-This is my Survey Form project for FreeCodeCamp.
+A Survey Form created via the FreeCodeCamp Responsive Web Design Project.
 
 You can view the working version here:
 
